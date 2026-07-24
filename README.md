@@ -37,10 +37,23 @@
         <p><code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Tailwind</code></p>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3>🧩 Water Sort Engine</h3>
-        <p>An algorithmic logic puzzle game built using strict object-oriented paradigms and efficient data structures.</p>
+        <h3>🧩 Water Sort Puzzle Game</h3>
+        <p>A puzzle game built using strict object-oriented paradigms and efficient data structures.</p>
         <p><code>Java</code> <code>Swing GUI</code> <code>Algorithms</code></p>
       </td>
+       <td width="50%" align="center" valign="top">
+        <h3>🧩 SkillSync </h3>
+        <p>
+A comprehensive Platform for a skill development and collaboration </p>
+        <p><code>Node.js</code> <code>MySQL</code> <code>JavaScript</code> <code>Tailwind</code></p>
+      </td>
+
+      <td width="50%" align="center" valign="top">
+        <h3>🧩 📊 Student Productivity Analysis</h3>
+        <p>Analyzes student lifestyle patterns and their impact on productivity using Python-based data analysis and visualization.</p>
+        <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code> Matplotlib </code><code>Seaborn</code></p>
+      </td>
+      
     </tr>
   </table>
   <br><br><br>
@@ -104,13 +117,13 @@
   <!-- 17. CONNECT -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&color=D4AF37&center=true&width=200&lines=CONNECT" alt="Connect Header" />
   <br>
-  <a href="mailto:[INSERT_YOUR_EMAIL_HERE]">
+  <a href="mailto:hasan56988733@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=D4AF37&borderColor=D4AF37" alt="Email Badge" />
   </a>
-  <a href="[INSERT_YOUR_LINKEDIN_URL_HERE]">
+  <a href="https://www.linkedin.com/in/mahmodul-hasan-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=D4AF37&borderColor=D4AF37" alt="LinkedIn Badge" />
   </a>
-  <a href="[INSERT_YOUR_PORTFOLIO_URL_HERE]">
+  <a href="https://mahmodulhasan07.github.io/mahmoud-dev-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-0B0F19?style=for-the-badge&logo=vercel&logoColor=D4AF37&borderColor=D4AF37" alt="Portfolio Badge" />
   </a>
   <br><br>
