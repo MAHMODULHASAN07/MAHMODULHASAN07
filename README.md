@@ -1,6 +1,6 @@
 <div align="center">
   <!-- আপনার জেনারেট করা ব্যানার ইমেজের লিংকটি নিচের src="" এর ভেতর দিন -->
-  <img src="[github banner 1.png]" alt="Mahmodul Hasan Profile Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
+  <img src="github_banner.png" alt="Mahmodul Hasan Profile Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;" />
 
   <h2 align="center">
     Hi there, I'm Mahmodul Hasan! <img src="https://media.giphy.com/media/hvRJCLFzcasr14ia7z/giphy.gif" width="28px" alt="Waving hand">
