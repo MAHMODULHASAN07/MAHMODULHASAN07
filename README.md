@@ -1,111 +1,62 @@
 <div align="center">
-
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=180&section=header&text=Hello,%20I'm%20Mahmodul%20Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Wave" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Software+Engineer;Aspiring+Data+Scientist;Problem+Solver" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  Building robust software solutions and exploring the depths of machine learning. <br/>
-  <i>Noakhali Science and Technology University (NSTU), Bangladesh</i>
-</p>
-
-<!-- Connect Badges -->
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Mahmodul%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Waving Animation" />
+  
   <a href="https://mahmodulhasan07.github.io/mahmoud-dev-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev&logoColor=3B82F6&border=3B82F6" alt="Portfolio" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+@+NSTU;Full-Stack+Web+Developer;Building+Impactful+Solutions" alt="Typing Animation" />
   </a>
-  <a href="[Insert LinkedIn Profile URL here]">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6&border=3B82F6" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[Insert Professional Email Address here]">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=mail.ru&logoColor=3B82F6&border=3B82F6" alt="Email" />
-  </a>
-</p>
-
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 🔭 I’m currently focused on **Full Stack Web Development & Data Science**.
-- 🌱 I’m actively learning **Python, Scikit-learn, and Machine Learning** concepts.
-- 🎯 **2026 Goal:** Master advanced predictive modeling and deploy scalable full-stack applications to production.
-- 💡 **Philosophy:** Write clean, modular, and maintainable code that scales.
+I am an aspiring Software Engineer currently pursuing my B.Sc. in Software Engineering at the Institute of Information Technology (IIT), NSTU. I specialize in building robust, full-stack architectures and have a strong passion for solving real-world problems through clean code and scalable design. 
+
+- 🔭 **Currently Focusing On:** Deepening my knowledge in **.NET** and enterprise-level backend architectures.
+- 🌱 **Broadening Horizons:** Exploring Data Science and Machine Learning to integrate intelligent features into web applications.
+- 🎯 **2026 Goals:** Master the .NET ecosystem, contribute to major open-source projects, and transition into a full-time Software Engineer role.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,php,html,css,bootstrap,tailwind,mysql,git,github,vscode,linux&perline=6" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,python,mysql,dotnet,git,github,linux,vscode&theme=dark" alt="My Skills" />
   </a>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 📂 Featured Project
 
-<table border="0" width="100%">
+<table bordercolor="#30363d">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🩸 Blood Donation Network</h4>
-      <p align="left">
-        A modern, efficient university platform where verified students can register as donors, search for active donors, and manage blood requests in real-time. Designed with a focus on high availability and clean UI.
-      </p>
-      <p align="left">
-        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code> <code>Tailwind</code> <code>PHP</code> <code>MySQL</code>
-      </p>
-      <p align="left">
-        <a href="[Insert Repository Link Here]"><strong>➥ View Source Code</strong></a>
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🧠 Machine Learning Lab (In Progress)</h4>
-      <p align="left">
-        An evolving repository documenting my journey into Data Science. Contains implementations of data analysis workflows, exploratory data analysis (EDA), and predictive models using Scikit-learn.
-      </p>
-      <p align="left">
-        <code>Python</code> <code>Scikit-learn</code> <code>Jupyter</code> <code>Data Analysis</code>
-      </p>
-      <p align="left">
-        <a href="[Insert Repository Link Here]"><strong>➥ View Source Code</strong></a>
-      </p>
+    <td width="100%" valign="top">
+      <h3>🩸 Blood Donation Network</h3>
+      <p>A modern university platform deployed at NSTU for students to register as donors, search for compatible matches, and manage urgent blood requests efficiently.</p>
+      <br>
+      <p><strong>Tech Stack:</strong> PHP, Laravel, JavaScript, Tailwind CSS, Bootstrap, MySQL</p>
+      <a href="https://bloodnetwork.nstushibir.org/"><strong>🔗 View Live Application</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- GitHub Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmodulhasan07&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</a>
-<br/><br/>
-
-<!-- Stats & Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmodulhasan07&show_icons=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&icon_color=3b82f6&hide_border=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmodulhasan07&layout=compact&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
-</a>
-<br/><br/>
-
-<!-- Streak Stats -->
-<a href="https://github.com/aokzmac-coder/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmodulhasan07&theme=dark&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=c9d1d9&hide_border=true" alt="GitHub Streak" />
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmodulhasan07&theme=radical&no-frame=true&row=1&margin-w=15&bg_color=0D1117" alt="GitHub Trophies" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmodulhasan07&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9&icon_color=06b6d4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmodulhasan07&theme=transparent&hide_border=true&background=0D1117&ring=3b82f6&fire=06b6d4&currStreakLabel=c9d1d9" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmodulhasan07&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" width="60%" />
 </div>
 
 ---
@@ -113,16 +64,31 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <!-- Note: This image will load once you configure the GitHub Action described below -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmodulhasan07/mahmodulhasan07/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmodulhasan07/mahmodulhasan07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmodulhasan07/mahmodulhasan07/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/mahmodulhasan07/mahmodulhasan07/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
-<br/>
+---
+
+### 🌍 Let's Connect
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
+  <a href="https://mahmodulhasan07.github.io/mahmoud-dev-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-%230D1117.svg?style=for-the-badge&logo=Web&logoColor=06b6d4&borderColor=3b82f6" alt="Portfolio Badge"/>
+  </a>
+  <!-- Update these links with your actual URLs -->
+  <a href="[INSERT_LINKEDIN_URL_HERE]">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:[INSERT_EMAIL_HERE]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+  <i>"Writing code that solves problems today, and scales for tomorrow."</i>
 </div>
