@@ -6,15 +6,13 @@
 
   <!-- 2. TYPING ANIMATION (Gold Accent #D4AF37) -->
   <a href="[INSERT_YOUR_PORTFOLIO_LINK_HERE]">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1500&color=D4AF37&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Web+Developer;Competitive+Programmer;Data+Science+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1500&color=D4AF37&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Competitive+Programmer;Data+Science+%26+Machine+Learning+Enthusiast" alt="Typing Animation" />
   </a>
   <br><br>
 
   <!-- 3 & 4. INTRODUCTION & ABOUT ME -->
   <p align="center">
-    Architecting elegant backend systems and seamless user experiences.<br>
-    Currently pursuing a B.Sc. in Software Engineering at <b>Noakhali Science and Technology University</b>.<br>
-    My engineering philosophy is rooted in writing clean, scalable logic and designing intuitive architectures.
+  Passionate Software Engineering student with a strong interest in Full Stack Web Development,Competitive Programming Data Science, and Machine Learning. I enjoy building modern, scalable applications, solving real-world problems, and continuously expanding my knowledge through hands-on projects and lifelong learning.
   </p>
   <br><br>
 
@@ -46,12 +44,6 @@
         <p>
 A comprehensive Platform for a skill development and collaboration </p>
         <p><code>Node.js</code> <code>MySQL</code> <code>JavaScript</code> <code>Tailwind</code></p>
-      </td>
-
-      <td width="50%" align="center" valign="top">
-        <h3>🧩 📊 Student Productivity Analysis</h3>
-        <p>Analyzes student lifestyle patterns and their impact on productivity using Python-based data analysis and visualization.</p>
-        <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code> Matplotlib </code><code>Seaborn</code></p>
       </td>
       
     </tr>
